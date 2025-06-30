@@ -1,0 +1,17 @@
+h1 {
+    color: black;
+    font-size: 70px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+h2 {
+    color: red;
+    font-size: 70px;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+
+body {
+    background-color: lightseagreen;
+}
